@@ -55,18 +55,3 @@ A `struct Carta` armazena os seguintes dados:
         * **Maior vence**: População, Área, PIB (valor real), Número de Pontos Turísticos, PIB per Capita, Super Poder.
         * **Menor vence**: Densidade Populacional (com lógica especial para valores nulos ou muito próximos de zero, onde zero é considerado o "menor" ideal).
     * **Resultado da Comparação**: Imprime qual carta venceu em cada um dos critérios comparados (indicado por `1` se a Carta 1 venceu, `0` caso contrário ou empate no critério específico).
-
-## Como Compilar e Executar
-
-1.  **Salvar**: Salve o código como um arquivo `.c` (por exemplo, `jogo_estados.c`).
-2.  **Compilar**: Use um compilador C (como GCC) para compilar o código.
-    ```bash
-    gcc jogo_estados.c -o jogo_estados -lm
-    ```
-    (A flag `-lm` é necessária para linkar a biblioteca matemática devido ao uso de `fabs` e `1e9`).
-3.  **Executar**: Rode o executável gerado.
-    ```bash
-    ./jogo_estados
-    ```
-    O programa então solicitará a entrada dos dados para as duas cartas e exibirá os resultados.
-
