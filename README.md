@@ -1,4 +1,4 @@
-# Jogo das Cartas - Estados
+# Jogo das Cartas
 
 Este repositório contém o seguinte arquivo:
 
