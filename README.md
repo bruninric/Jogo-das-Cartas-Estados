@@ -1,6 +1,14 @@
-# Jogo das Cartas Estados
+# Jogo das Cartas - Estados
+
+Este repositório contém o seguinte arquivo:
+
+- Jogo das Cartas - Estados
 
 ## Descrição
+
+Atividade relacionada ao desafio **Super Trunfo**.
+
+**O trabalho contido neste repositório integra o desenvolvimento do TCC.**
 
 Este é um programa em C que simula um jogo de cartas simples chamado "Jogo dos Estados". Nele, duas cartas, cada uma representando um "estado" (ou uma entidade geográfica com características específicas), são comparadas com base em diversos atributos. O programa solicita ao usuário os dados de cada carta, realiza cálculos para derivar novos atributos e, por fim, compara as duas cartas para determinar qual delas vence em cada categoria.
 
