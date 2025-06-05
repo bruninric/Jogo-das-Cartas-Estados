@@ -12,7 +12,7 @@ Atividade relacionada ao desafio **Super Trunfo**.
 
 Este é um programa em C que simula um jogo de cartas simples chamado "Jogo dos Estados". Nele, duas cartas, cada uma representando um "estado" (ou uma entidade geográfica com características específicas), são comparadas com base em diversos atributos. O programa solicita ao usuário os dados de cada carta, realiza cálculos para derivar novos atributos e, por fim, compara as duas cartas para determinar qual delas vence em cada categoria.
 
-## Desenvolvimento e Funções
+## Desenvolvimento e Funções (Jogo das Cartas - Estados)
 
 O código foi desenvolvido utilizando a linguagem C e se baseia em uma estrutura principal (`struct Carta`) para armazenar os dados de cada carta.
 
